@@ -1,0 +1,25 @@
+{
+	// Use o IntelliSense para saber mais sobre os atributos possíveis.
+	// Focalizar para exibir as descrições dos atributos existentes.
+	// Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Attach to Next.js Server",
+			"type": "node",
+			"request": "attach",
+			"port": 9230,
+			"restart": true,
+			"remoteRoot": "${workspaceFolder}",
+			"localRoot": "${workspaceFolder}"
+		},
+		{
+			"name": "Attach to Firefox",
+			"type": "firefox",
+			"request": "attach",
+			"port": 6000,
+			"url": "http://localhost:3000",
+			"webRoot": "${workspaceFolder}"
+		}
+	]
+}

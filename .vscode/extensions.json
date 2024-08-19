@@ -1,0 +1,20 @@
+{
+	"recommendations": [
+		"bradlc.vscode-tailwindcss",
+		"esbenp.prettier-vscode",
+		"adpyke.codesnap",
+		"naumovs.color-highlight",
+		"kamikillerto.vscode-colorize",
+		"wallabyjs.console-ninja",
+		"firefox-devtools.vscode-firefox-debug",
+		"mikestead.dotenv",
+		"editorconfig.editorconfig",
+		"wix.vscode-import-cost",
+		"rangav.vscode-thunder-client",
+		"hbenl.vscode-test-explorer",
+		"ms-vscode.test-adapter-converter",
+		"andys8.jest-snippets",
+		"orta.vscode-jest",
+		"dbaeumer.vscode-eslint"
+	]
+}
