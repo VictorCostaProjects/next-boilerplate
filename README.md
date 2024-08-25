@@ -58,6 +58,7 @@ Remove styled-components if you will use tailwindcss
 8. Remove config to generate styles.ts when use plop to generate a component
 9. Delete generators/templates/styles.ts.hbs
 10. Transform <S.Wrapper> into <> inside generators/templates/Component.tsx.hbs
+11. Update .storybook/preview.tsx
 
 Remove tailwindcss if you will use styled-components
 
@@ -66,6 +67,7 @@ Remove tailwindcss if you will use styled-components
 3. Remove the import of globals.css in src/app/layout.tsx
 4. Uninstall postcss and tailwindcss and @storybook/addon-postcss
 5. Remove @storybook/addon-postcss from addons in the .storybook/main.ts
+6. Update .storybook/preview.tsx
 
 ## Learn More
 

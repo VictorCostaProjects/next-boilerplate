@@ -14,7 +14,5 @@ export const decorators = [
 */
 
 /* Uncomment if will use tailwind css
-import '../src/app/global.css';
-
-import 'tailwindcss/tailwind.css';
+import '../src/app/globals.css';
 */

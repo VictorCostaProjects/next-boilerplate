@@ -15,6 +15,11 @@
 		"ms-vscode.test-adapter-converter",
 		"andys8.jest-snippets",
 		"orta.vscode-jest",
-		"dbaeumer.vscode-eslint"
+		"dbaeumer.vscode-eslint",
+		"aeschli.vscode-css-formatter",
+		"figma.figma-vscode-extension",
+		"jonkwheeler.styled-components-snippets",
+		"jpoissonnier.vscode-styled-components",
+		"styled-components.vscode-styled-components"
 	]
 }
